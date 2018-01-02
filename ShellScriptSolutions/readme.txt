@@ -1,0 +1,1 @@
+https://www.cyberciti.biz/faq/how-to-write-output-to-terminal/
